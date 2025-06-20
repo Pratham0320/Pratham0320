@@ -50,9 +50,9 @@
 
 ## 📫 Let’s Connect!
 
-- 🔗 GitHub: [github.com/PrathamShandilya](https://github.com/Pratham0320)
+- 🔗 GitHub: [github.com/Pratham0320](https://github.com/Pratham0320)
 - 📧 Email: prathamshandilya2207@gmail.com
-- 📝 LinkedIn: [linkedin.com/in/prathamshandilya](https://www.linkedin.com/in/pratham0320)
+- 📝 LinkedIn: [linkedin.com/in/pratham0320](https://www.linkedin.com/in/pratham0320)
 
 ---
 
