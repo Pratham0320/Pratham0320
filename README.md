@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer | Frontend Developer | CDS & AFCAT Aspirant 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,java,cpp,html,css,tailwind,git,github,figma,vscode" alt="Tech Stack" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,tailwind,git,github,vscode" alt="Tech Stack" height="40"/>
 </p>
 
 ---
@@ -23,7 +23,7 @@
 
 | Languages       | Frontend                     | Tools & Platforms          | Other Skills                        |
 |-----------------|-----------------------------|----------------------------|-------------------------------------|
-| Java, C, C++    | React.js, HTML5, CSS3, TailwindCSS | Git, GitHub, VS Code, Figma | REST APIs, Agile Scrum, Debugging, Problem Solving |
+| Java, JS, C    | React.js, HTML5, CSS3, TailwindCSS | Git, GitHub, VS Code | REST APIs, Agile Scrum, Debugging, Problem Solving |
 
 ---
 
