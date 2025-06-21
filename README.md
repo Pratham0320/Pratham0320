@@ -1,59 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pratham Shandilya</h1>
 <h3 align="center">Aspiring Software Engineer | Frontend Developer | CDS Aspirant 🇮🇳</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham0320&label=Profile%20views&color=0e75b6&style=flat" alt="pratham0320" /> </p>
 
-## 👨‍💻 About Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/pratham0320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham0320" height="30" width="40" /></a>
+<a href="https://instagram.com/pratham_s0320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratham_s0320" height="30" width="40" /></a>
+</p>
 
-- 🎓 I'm a final year B.Tech CSE student at **KIIT University**, Bhubaneswar (2022–2026)
-- 🧠 I'm currently focused on:
-  - **Frontend Development** (React.js, JavaScript, Tailwind)
-  - **System Design & Architecture**
-  - Preparing for **CDS 2 2025** and AFCAT ✈️
-- 🌟 I’m passionate about **technology that solves real-world problems** and building digital systems with impact
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
----
-
-## 🛠️ Tech Stack
-
-- **Languages**: Java, C, C++, JavaScript  
-- **Frontend**: React.js, HTML5, CSS3, TailwindCSS  
-- **Tools**: Git, GitHub, VS Code, Figma  
-- **Other**: Agile Scrum, REST APIs, Problem Solving, Debugging
-
----
-
-## 🚀 Projects
-
-| Name | Description | Tech Stack |
-|------|-------------|------------|
-| [Inofinity Website](https://github.com/Pratham0320/Inofinity-Medical) | Company website built from scratch during internship at Inofinity R&D, Bhubaneswar | HTML, CSS, JavaScript |
-| [Java Expense Tracker](https://github.com/Pratham0320/ExpenseTracker) | Simple expense tracker that lets users add, view, and manage daily expenses | Java, OOP, CLI |
-
-> 📌 More exciting frontend and system design projects are in the pipeline — stay tuned!
----
-
-## 🏆 Achievements
-
-- 🧑‍💼 **Web Development Intern** @ Inofinity R&D, Bhubaneswar (Dec 2024 – Jan 2025)
-  - Built core frontend of official company site
-- 🏫 ICSE Alum – strong English writing and communication skills
-
----
-
-## 🌱 Learning Goals
-
-- Deep dive into **System Design**, DSA, and scalable web apps
-- Master **React.js**, performance optimization, and frontend testing
-
----
-
-## 📫 Let’s Connect!
-
-- 🔗 GitHub: [github.com/Pratham0320](https://github.com/Pratham0320)
-- 📧 Email: prathamshandilya2207@gmail.com
-- 📝 LinkedIn: [linkedin.com/in/pratham0320](https://www.linkedin.com/in/pratham0320)
-
----
-
-> "Discipline, consistency, and purpose drive both code and command."
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratham0320&show_icons=true&locale=en&layout=compact" alt="pratham0320" /></p>
