@@ -49,11 +49,12 @@
 
 ---
 
-## 📈 Current Focus
+## 📝 Current Focus
 
 - Mastering **React.js** & modern frontend workflows
-- Exploring **System Design** and scalable architectures
+- Exploring **DevOps** and scalable architectures
 - Sharpening DSA and problem-solving skills
+- Learning and excelling in **Spring Boot** for robust backend development
 
 ---
 
