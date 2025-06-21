@@ -1,59 +1,71 @@
 <h1 align="center">Hi 👋, I'm Pratham Shandilya</h1>
-<h3 align="center">Aspiring Software Engineer | Frontend Developer | CDS Aspirant 🇮🇳</h3>
+<h3 align="center">Aspiring Software Engineer | Frontend Developer | CDS & AFCAT Aspirant 🇮🇳</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,java,cpp,html,css,tailwind,git,github,figma,vscode" alt="Tech Stack" height="40"/>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a final year B.Tech CSE student at **KIIT University**, Bhubaneswar (2022–2026)
-- 🧠 I'm currently focused on:
-  - **Frontend Development** (React.js, JavaScript, Tailwind)
-  - **System Design & Architecture**
-  - Preparing for **CDS 2 2025** and AFCAT ✈️
-- 🌟 I’m passionate about **technology that solves real-world problems** and building digital systems with impact
+- 🎓 **Final Year B.Tech (CSE)** @ KIIT University, Bhubaneswar (2022–2026)
+- 💡 **Passionate about:** Building impactful digital products & solving real-world problems
+- 🏋️ **Currently focused on:**
+  - Frontend Development (**React.js**, **JavaScript**, **TailwindCSS**)
+  - System Design & Architecture
+  - Preparing for **CDS 2 2025** and **AFCAT**
+- 🌱 **Learning:** Advanced DSA, scalable web apps, frontend testing, and performance optimization
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Toolbox
 
-- **Languages**: Java, C, C++, JavaScript  
-- **Frontend**: React.js, HTML5, CSS3, TailwindCSS  
-- **Tools**: Git, GitHub, VS Code, Figma  
-- **Other**: Agile Scrum, REST APIs, Problem Solving, Debugging
+| Languages       | Frontend                     | Tools & Platforms          | Other Skills                        |
+|-----------------|-----------------------------|----------------------------|-------------------------------------|
+| Java, C, C++    | React.js, HTML5, CSS3, TailwindCSS | Git, GitHub, VS Code, Figma | REST APIs, Agile Scrum, Debugging, Problem Solving |
 
 ---
 
 ## 🚀 Projects
 
-| Name | Description | Tech Stack |
-|------|-------------|------------|
-| [Inofinity Website](https://github.com/Pratham0320/Inofinity-Medical) | Company website built from scratch during internship at Inofinity R&D, Bhubaneswar | HTML, CSS, JavaScript |
-| [Java Expense Tracker](https://github.com/Pratham0320/ExpenseTracker) | Simple expense tracker that lets users add, view, and manage daily expenses | Java, OOP, CLI |
+- **[Inofinity Website](https://github.com/Pratham0320/Inofinity-Medical):**  
+  Company website built from scratch during my internship at Inofinity R&D, Bhubaneswar  
+  _HTML, CSS, JavaScript_
 
-> 📌 More exciting frontend and system design projects are in the pipeline — stay tuned!
----
+- **[Java Expense Tracker](https://github.com/Pratham0320/ExpenseTracker):**  
+  CLI-based daily expense manager with OOP principles  
+  _Java_
 
-## 🏆 Achievements
-
-- 🧑‍💼 **Web Development Intern** @ Inofinity R&D, Bhubaneswar (Dec 2024 – Jan 2025)
-  - Built core frontend of official company site
-- 🏫 ICSE Alum – strong English writing and communication skills
+> 📌 _More frontend and system design projects coming soon—stay tuned!_
 
 ---
 
-## 🌱 Learning Goals
+## 🏆 Experience & Achievements
 
-- Deep dive into **System Design**, DSA, and scalable web apps
-- Master **React.js**, performance optimization, and frontend testing
-
----
-
-## 📫 Let’s Connect!
-
-- 🔗 GitHub: [github.com/Pratham0320](https://github.com/Pratham0320)
-- 📧 Email: prathamshandilya2207@gmail.com
-- 📝 LinkedIn: [linkedin.com/in/pratham0320](https://www.linkedin.com/in/pratham0320)
+- 🧑‍💼 **Web Development Intern** @ Inofinity R&D (Dec 2024 – Jan 2025)  
+  _Built the core frontend for the official company website_
+- 🏫 **ICSE Alum:** Strong English writing and communication skills
 
 ---
 
-> "Discipline, consistency, and purpose drive both code and command."
+## 📈 Current Focus
+
+- Mastering **React.js** & modern frontend workflows
+- Exploring **System Design** and scalable architectures
+- Sharpening DSA and problem-solving skills
+
+---
+
+## 📫 Connect with Me
+
+<p>
+  <a href="https://github.com/Pratham0320"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pratham0320"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:prathamshandilya2207@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+> _"Discipline, consistency, and purpose drive both code and command."_
+
