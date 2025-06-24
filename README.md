@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer | Frontend Developer | CDS & AFCAT Aspirant 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,tailwind,git,github,vscode,spring,springboot" alt="Tech Stack" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,tailwind,git,github,vscode,spring" alt="Tech Stack" height="40"/>
 </p>
 
 ---
