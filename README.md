@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratham Shandilya</h1>
-<h3 align="center">Aspiring Software Engineer | Frontend Developer | CDS & AFCAT Aspirant 🇮🇳</h3>
+<h3 align="center">Aspiring Software Engineer | Frontend Developer | 🇮🇳</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,html,css,react,tailwind,git,github,vscode,spring" alt="Tech Stack" height="40"/>
@@ -14,7 +14,6 @@
 - 🏋️ **Currently focused on:**
   - Frontend Development (**React.js**, **JavaScript**, **TailwindCSS**)
   - System Design & Architecture
-  - Preparing for **CDS 2 2025** and **AFCAT**
 - 🌱 **Learning:** Advanced DSA, scalable web apps, frontend testing, and performance optimization
 
 ---
